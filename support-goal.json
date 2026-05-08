@@ -10,8 +10,8 @@
   "target": 200,
   "currency": "CNY",
   "kofiUrl": "https://ko-fi.com/nekonekomeowmeow",
-  "imageUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/main/support-assets/1778158576749-image.png",
-  "wechatQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/main/support-assets/wechat-qr.png",
-  "alipayQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/main/support-assets/alipay-qr.jpg",
+  "imageUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/1778158576749-image.png",
+  "wechatQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/wechat-qr.png",
+  "alipayQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/alipay-qr.jpg",
   "updatedAt": "2026-05-08"
 }
