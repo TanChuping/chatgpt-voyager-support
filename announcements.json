@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "current": {
+    "id": "2026-05-26-announcement-system",
+    "version": "1.6.5",
+    "title": "📣 公告系统上线 / Announcement system live",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "summary": "GPT-Voyager 现在能直接推送插件更新公告了，不用更新插件本体也能看到。Click for details.",
+    "bodyMarkdown": "# 1.6.5 — 公告系统 / Announcement system\n\n## 中文\n\n以前每次插件有新功能，你只能通过 Chrome 商店或 GitHub release 才能看到。从 1.6.5 起，右上角多了一个**喇叭**按钮：\n\n- 有新公告时会弹一个**像微信对话框**的小气泡，**只弹一次**，点叉关掉再也不会烦你，除非有更新的公告。\n- 点喇叭、点气泡里的「查看详情」、或者点悬浮面板左上角的版本号（比如 `1.6.5`），都可以打开完整公告。\n- 公告内容支持 **Markdown** 和图片，是从 GitHub 上的 [chatgpt-voyager-support](https://github.com/TanChuping/chatgpt-voyager-support/blob/main/announcements.json) 仓库远程拉的，不用更新插件就能下发。\n\n这条公告本身就是用这套系统推的。\n\n## English\n\nUntil now, the only way to learn about new features in this extension was via the Chrome Web Store changelog or the GitHub Releases page. Starting with 1.6.5, a small **megaphone** button lives in the top-right next to Share:\n\n- When there's a new announcement, a tiny **WeChat-style speech bubble** drops down once. Click the × and it's gone — you won't see it again until the next announcement.\n- Open the full announcement by clicking the megaphone, the bubble's \"View details\" link, or the version chip (e.g. `1.6.5`) in the floating panel header.\n- Content supports **Markdown** + images and is hot-loaded from a remote JSON, so the author can push fixes / notices without shipping a new build.\n\nThis very announcement is being delivered through that system.\n\n---\n\n_If you see the bubble pop up on every page reload, that's a bug — please file an issue on the [main repo](https://github.com/TanChuping/chatgpt-voyager/issues)._",
+    "primaryImageUrl": ""
+  }
+}
