@@ -3,15 +3,15 @@
   "title": "赞助作者买个索尼键盘",
   "titleZh": "赞助作者买个索尼键盘",
   "titleEn": "Keyboard fund",
-  "description": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。\n-感谢不知名老哥打赏的10块钱。",
-  "descriptionZh": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。\n-感谢不知名老哥打赏的10块钱。",
+  "description": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。\n-感谢 Zhy54 打赏的 15.13 块钱。",
+  "descriptionZh": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。\n-感谢 Zhy54 打赏的 15.13 块钱。",
   "descriptionEn": "This tool will stay free. Sponsorship is optional, but it helps the author eat something nice and buy fun gear.",
-  "current": 15,
+  "current": 30.13,
   "target": 200,
   "currency": "CNY",
   "kofiUrl": "https://ko-fi.com/nekonekomeowmeow",
   "imageUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/1778158576749-image.png",
   "wechatQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/wechat-qr.png",
   "alipayQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/alipay-qr.jpg",
-  "updatedAt": "2026-05-22"
+  "updatedAt": "2026-08-16"
 }
