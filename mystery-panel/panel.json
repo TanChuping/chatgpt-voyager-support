@@ -14,49 +14,56 @@
   "align": "start",
   "gap": "normal",
   "rows": [
-    [
-      {
-        "type": "heading",
-        "text": {
-          "zh": "赞助作者买个索尼键盘",
-          "en": "Help the author buy a Sony keyboard",
-          "ja": "作者の Sony キーボード購入を支援",
-          "fr": "Aidez l’auteur à s’offrir un clavier Sony",
-          "de": "Unterstütze den Autor beim Kauf einer Sony-Tastatur",
-          "es": "Ayuda al autor a comprar un teclado Sony",
-          "ru": "Помогите автору купить клавиатуру Sony"
-        }
-      }
-    ],
-    [
-      {
-        "type": "text",
-        "text": {
-          "zh": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。\n-感谢 Zhy54 打赏的 15.13 块钱。",
-          "en": "This tool will stay free. Sponsorship is optional, but it helps the author eat something nice and buy fun gear. Thank you to Zhy54 for contributing CNY 15.13.",
-          "ja": "このツールは今後も無料で提供します。支援は任意ですが、作者がおいしいものを食べたり、楽しいアイテムを買ったりする助けになります。\n- 15.13 元をご支援くださった Zhy54 さん、ありがとうございます。",
-          "fr": "Cet outil restera gratuit. Le soutien financier est facultatif, mais il permet à l’auteur de s’offrir un bon repas et quelques objets sympas.\n- Merci à Zhy54 pour son don de 15.13 yuans.",
-          "de": "Dieses Tool bleibt kostenlos. Eine Spende ist freiwillig, hilft dem Autor aber dabei, sich ein gutes Essen und ein paar schöne Dinge zu gönnen.\n- Vielen Dank an Zhy54 für die Spende von 15.13 Yuan.",
-          "es": "Esta herramienta seguirá siendo gratuita. El apoyo económico es opcional, pero ayuda al autor a disfrutar de una buena comida y comprar algunas cosas divertidas.\n- Gracias a Zhy54 por su donación de 15.13 yuanes.",
-          "ru": "Этот инструмент останется бесплатным. Поддержка добровольна, но помогает автору вкусно поесть и купить что-нибудь интересное.\n- Спасибо Zhy54 за пожертвование в размере 15.13 юаня."
-        }
-      }
-    ],
-    [
-      {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/1778158576749-image.png",
-        "text": {
-          "zh": "赞助作者买个索尼键盘",
-          "en": "Keyboard fund",
-          "ja": "作者の Sony キーボード購入を支援",
-          "fr": "Aidez l’auteur à s’offrir un clavier Sony",
-          "de": "Unterstütze den Autor beim Kauf einer Sony-Tastatur",
-          "es": "Ayuda al autor a comprar un teclado Sony",
-          "ru": "Помогите автору купить клавиатуру Sony"
-        }
-      }
-    ],
+    {
+      "weights": [
+        2,
+        1
+      ],
+      "columns": [
+        [
+          {
+            "type": "heading",
+            "text": {
+              "zh": "赞助作者买个索尼键盘",
+              "en": "Help the author buy a Sony keyboard",
+              "ja": "作者の Sony キーボード購入を支援",
+              "fr": "Aidez l’auteur à s’offrir un clavier Sony",
+              "de": "Unterstütze den Autor beim Kauf einer Sony-Tastatur",
+              "es": "Ayuda al autor a comprar un teclado Sony",
+              "ru": "Помогите автору купить клавиатуру Sony"
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "zh": "这个工具会继续免费。赞助不是必须的，但会让作者吃顿好的，买点好玩意。",
+              "en": "This tool will stay free. Sponsorship is optional, but it helps the author eat something nice and buy fun gear.",
+              "ja": "このツールは今後も無料で提供します。支援は任意ですが、作者がおいしいものを食べたり、楽しいアイテムを買ったりする助けになります。",
+              "fr": "Cet outil restera gratuit. Le soutien financier est facultatif, mais il permet à l’auteur de s’offrir un bon repas et quelques objets sympas.",
+              "de": "Dieses Tool bleibt kostenlos. Eine Spende ist freiwillig, hilft dem Autor aber dabei, sich ein gutes Essen und ein paar schöne Dinge zu gönnen.",
+              "es": "Esta herramienta seguirá siendo gratuita. El apoyo económico es opcional, pero ayuda al autor a disfrutar de una buena comida y comprar algunas cosas divertidas.",
+              "ru": "Этот инструмент останется бесплатным. Поддержка добровольна, но помогает автору вкусно поесть и купить что-нибудь интересное."
+            }
+          }
+        ],
+        [
+          {
+            "type": "image",
+            "fit": "cover",
+            "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/mystery-panel/assets/keyboard.webp",
+            "text": {
+              "zh": "赞助作者买个索尼键盘",
+              "en": "Help the author buy a Sony keyboard",
+              "ja": "作者の Sony キーボード購入を支援",
+              "fr": "Aidez l’auteur à s’offrir un clavier Sony",
+              "de": "Unterstütze den Autor beim Kauf einer Sony-Tastatur",
+              "es": "Ayuda al autor a comprar un teclado Sony",
+              "ru": "Помогите автору купить клавиатуру Sony"
+            }
+          }
+        ]
+      ]
+    },
     [
       {
         "type": "progress",
@@ -67,64 +74,104 @@
     ],
     [
       {
-        "type": "link",
-        "url": "https://ko-fi.com/nekonekomeowmeow",
-        "text": "Ko-fi"
+        "type": "tabs",
+        "side": true,
+        "items": [
+          {
+            "label": {
+              "zh": "微信",
+              "en": "WeChat",
+              "ja": "WeChat",
+              "fr": "WeChat",
+              "de": "WeChat",
+              "es": "WeChat",
+              "ru": "WeChat"
+            },
+            "color": "#137D53",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/mystery-panel/assets/wechat.png",
+                "text": {
+                  "zh": "微信二维码",
+                  "en": "WeChat QR code",
+                  "ja": "WeChat の QR コード",
+                  "fr": "Code QR WeChat",
+                  "de": "WeChat-QR-Code",
+                  "es": "Código QR de WeChat",
+                  "ru": "QR-код WeChat"
+                },
+                "fit": "square"
+              }
+            ]
+          },
+          {
+            "label": {
+              "zh": "支付宝",
+              "en": "Alipay",
+              "ja": "Alipay",
+              "fr": "Alipay",
+              "de": "Alipay",
+              "es": "Alipay",
+              "ru": "Alipay"
+            },
+            "color": "#165EAE",
+            "blocks": [
+              {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/mystery-panel/assets/alipay.png",
+                "text": {
+                  "zh": "支付宝二维码",
+                  "en": "Alipay QR code",
+                  "ja": "Alipay の QR コード",
+                  "fr": "Code QR Alipay",
+                  "de": "Alipay-QR-Code",
+                  "es": "Código QR de Alipay",
+                  "ru": "QR-код Alipay"
+                },
+                "fit": "square"
+              }
+            ]
+          },
+          {
+            "label": "Ko-fi",
+            "color": "#5940A5",
+            "blocks": [
+              {
+                "type": "link",
+                "url": "https://ko-fi.com/nekonekomeowmeow",
+                "text": {
+                  "zh": "前往 Ko-fi",
+                  "en": "Open Ko-fi",
+                  "ja": "Ko-fi を開く",
+                  "fr": "Ouvrir Ko-fi",
+                  "de": "Ko-fi öffnen",
+                  "es": "Abrir Ko-fi",
+                  "ru": "Перейти на Ko-fi"
+                },
+                "color": "#5940A5"
+              }
+            ]
+          }
+        ]
       }
     ],
     [
       {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/wechat-qr.png",
+        "type": "caption",
         "text": {
-          "zh": "微信二维码",
-          "en": "WeChat QR code",
-          "ja": "WeChat の QR コード",
-          "fr": "Code QR WeChat",
-          "de": "WeChat-QR-Code",
-          "es": "Código QR de WeChat",
-          "ru": "QR-код WeChat"
-        }
-      },
-      {
-        "type": "image",
-        "url": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/alipay-qr.jpg",
-        "text": {
-          "zh": "支付宝二维码",
-          "en": "Alipay QR code",
-          "ja": "Alipay の QR コード",
-          "fr": "Code QR Alipay",
-          "de": "Alipay-QR-Code",
-          "es": "Código QR de Alipay",
-          "ru": "QR-код Alipay"
-        }
-      }
-    ],
-    [
-      {
-        "type": "text",
-        "text": {
-          "zh": "微信",
-          "en": "WeChat",
-          "ja": "WeChat",
-          "fr": "WeChat",
-          "de": "WeChat",
-          "es": "WeChat",
-          "ru": "WeChat"
-        }
-      },
-      {
-        "type": "text",
-        "text": {
-          "zh": "支付宝",
-          "en": "Alipay",
-          "ja": "Alipay",
-          "fr": "Alipay",
-          "de": "Alipay",
-          "es": "Alipay",
-          "ru": "Alipay"
+          "zh": "感谢 Zhy54 打赏的 15.13 块钱。",
+          "en": "Thank you to Zhy54 for contributing CNY 15.13.",
+          "ja": "15.13 元をご支援くださった Zhy54 さん、ありがとうございます。",
+          "fr": "Merci à Zhy54 pour son don de 15.13 yuans.",
+          "de": "Vielen Dank an Zhy54 für die Spende von 15.13 Yuan.",
+          "es": "Gracias a Zhy54 por su donación de 15.13 yuanes.",
+          "ru": "Спасибо Zhy54 за пожертвование в размере 15.13 юаня."
         }
       }
     ]
-  ]
+  ],
+  "colors": {
+    "accent": "#7551CF"
+  }
 }
