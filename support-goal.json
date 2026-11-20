@@ -13,5 +13,27 @@
   "imageUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/1778158576749-image.png",
   "wechatQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/wechat-qr.png",
   "alipayQrUrl": "https://raw.githubusercontent.com/TanChuping/chatgpt-voyager-support/refs/heads/main/support-assets/alipay-qr.jpg",
-  "updatedAt": "2026-08-16"
+  "updatedAt": "2026-08-16",
+  "localizedCopy": {
+    "ja": {
+      "title": "作者の Sony キーボード購入を支援",
+      "description": "このツールは今後も無料で提供します。支援は任意ですが、作者がおいしいものを食べたり、楽しいアイテムを買ったりする助けになります。\n- 15.13 元をご支援くださった Zhy54 さん、ありがとうございます。"
+    },
+    "fr": {
+      "title": "Aidez l’auteur à s’offrir un clavier Sony",
+      "description": "Cet outil restera gratuit. Le soutien financier est facultatif, mais il permet à l’auteur de s’offrir un bon repas et quelques objets sympas.\n- Merci à Zhy54 pour son don de 15.13 yuans."
+    },
+    "de": {
+      "title": "Unterstütze den Autor beim Kauf einer Sony-Tastatur",
+      "description": "Dieses Tool bleibt kostenlos. Eine Spende ist freiwillig, hilft dem Autor aber dabei, sich ein gutes Essen und ein paar schöne Dinge zu gönnen.\n- Vielen Dank an Zhy54 für die Spende von 15.13 Yuan."
+    },
+    "es": {
+      "title": "Ayuda al autor a comprar un teclado Sony",
+      "description": "Esta herramienta seguirá siendo gratuita. El apoyo económico es opcional, pero ayuda al autor a disfrutar de una buena comida y comprar algunas cosas divertidas.\n- Gracias a Zhy54 por su donación de 15.13 yuanes."
+    },
+    "ru": {
+      "title": "Помогите автору купить клавиатуру Sony",
+      "description": "Этот инструмент останется бесплатным. Поддержка добровольна, но помогает автору вкусно поесть и купить что-нибудь интересное.\n- Спасибо Zhy54 за пожертвование в размере 15.13 юаня."
+    }
+  }
 }
